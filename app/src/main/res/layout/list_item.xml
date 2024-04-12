@@ -17,12 +17,12 @@
 
     </com.google.android.material.imageview.ShapeableImageView>
     <TextView
-        android:text="Omera This is The App by Murerwa"
+        android:text="@string/omera_this_is_the_app_by_murerwa"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:id="@+id/tvHeading"
         android:textColor="@color/black"
-        android:textSize="16dp"
+        android:textSize="16sp"
         android:textStyle="bold"
         android:layout_marginStart="16dp"
         android:layout_marginEnd="32dp"
